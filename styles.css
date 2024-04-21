@@ -50,9 +50,6 @@ nav>a {
     margin-left: 145px;
     width: 524px;
     color: #FFFFFF;
-    /*display: flex;*/
-    /*flex-wrap: wrap;*/
-    /*align-items: center;*/
 }
 .header-div>h1 {
     font-size: 58px;
@@ -250,7 +247,7 @@ section#section-gallery>p {
     width: 620px;
 }
 .section-3>div>p {
-    margin-bottom: 65px;
+    margin-bottom: 60px;
     color: #FF4B32;
     text-align: center;
     font-family: "Open Sans", sans-serif;
@@ -287,9 +284,10 @@ section#section-gallery>p {
 .number>p {
     margin: 0;
 }
-.section-3-link>img {
+.section-3-link>a {
     margin: 5px 20px;
 }
+
 
 
 /*----------------------------------------------------end-section-3--------------------------------------------------*/
